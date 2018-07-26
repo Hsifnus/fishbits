@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="640dp"
+    android:height="640dp"
+    android:viewportWidth="640"
+    android:viewportHeight="640">
+
+    <path
+        android:name="cskY9QnD2"
+        android:fillColor="#5ceb2f"
+        android:fillAlpha="0"
+        android:strokeWidth="1"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="cskY9QnD2"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="7"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="cskY9QnD2"
+        android:fillColor="#5ceb2f"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="7"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="a11M1eyAY0"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#140f0f"
+        android:strokeWidth="1"
+        android:pathData="" />
+    <path
+        android:name="d13oZMlMz"
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M302.86 302.86L200 302.86L200 337.14L302.86 337.14L302.86 440L337.14 440L337.14
+337.14L440 337.14L440 302.86L337.14 302.86L337.14 200L302.86 200L302.86 302.86Z" />
+    <path
+        android:name="d13oZMlMz"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="6"
+        android:pathData="M302.86 302.86L200 302.86L200 337.14L302.86 337.14L302.86 440L337.14 440L337.14
+337.14L440 337.14L440 302.86L337.14 302.86L337.14 200L302.86 200L302.86 302.86Z" />
+    <path
+        android:name="d13oZMlMz"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="6"
+        android:pathData="M302.86 302.86L200 302.86L200 337.14L302.86 337.14L302.86 440L337.14 440L337.14
+337.14L440 337.14L440 302.86L337.14 302.86L337.14 200L302.86 200L302.86 302.86Z" />
+</vector>

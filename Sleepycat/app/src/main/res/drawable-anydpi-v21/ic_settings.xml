@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="640dp"
+    android:height="640dp"
+    android:viewportWidth="640"
+    android:viewportHeight="640">
+
+    <path
+        android:name="a19JH5sJVQ"
+        android:fillColor="#5ceb2f"
+        android:fillAlpha="0"
+        android:strokeWidth="1"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="a19JH5sJVQ"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="7"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="a19JH5sJVQ"
+        android:fillColor="#5ceb2f"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="7"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="mz2fgCBN0"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#140f0f"
+        android:strokeWidth="1"
+        android:pathData="" />
+    <path
+        android:name="b269CBAOag"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="6"
+        android:pathData="M400.14 202.15L374.88 208.56L360.54 241.75L349.42 262.3L264.12 347.6L241.74
+360.54L208.56 374.87L202.15 400.13L216.29 414.28L222.7 389.01L247.97
+382.6L257.39 392.03L250.98 417.29L225.71 423.7L239.86 437.85L265.12
+431.44L279.46 398.25L290.58 377.7L377.7 290.59L398.26 279.46L431.44
+265.13L437.85 239.87L423.71 225.72L417.3 250.99L392.03 257.4L382.61
+247.97L389.02 222.71L414.29 216.3L400.14 202.15Z" />
+</vector>

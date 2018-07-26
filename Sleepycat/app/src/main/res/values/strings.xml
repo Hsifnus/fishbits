@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Sleepycat</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="calendar_button_label">Calendar</string>
+    <string name="theme_button_label">Theme</string>
+    <string name="settings_button_label">Settings</string>
+
+    <string name="schedule_upper_header">January 1</string>
+    <string name="schedule_lower_header">1980</string>
+
+    <string name="add_event_time">9:00 PM</string>
+
+    <string name="add_event_time_label">Time</string>
+    <string name="add_event_time_data_hour">12</string>
+    <string name="add_event_time_data_divider">:</string>
+    <string name="add_event_time_data_minute">12</string>
+    <string name="add_event_time_data_meridian">PM</string>
+    <string name="add_event_time_to_divider">to</string>
+    <string name="add_event_time_error">Entered time is invalid!</string>
+    <string name="add_event_title_error">Entered title cannot be empty!</string>
+    <string name="add_event_time_blank_error">Required starting time cannot be blank!</string>
+    <string name="add_event_alarm_offset_label">Alarm Offset</string>
+    <string name="time_placeholder_hint">00</string>
+    <string name="time_meridian_placeholder_hint">AM or PM</string>
+    <string name="add_event_alarm_time_label">Alarm Time</string>
+    <string name="event_detail_alarm_date">January 1, 1980</string>
+    <string name="invalid_alarm_time_error">Alarm time is invalid!</string>
+    <string name="time_comparison_error">Starting time cannot be after ending time!</string>
+    <string name="delete_event_warning">Are you sure you want to delete this event?</string>
+    <string name="delete_event_positive">Yes</string>
+    <string name="delete_event_negative">No</string>
+
+    <string name="add_event_title_label">Title</string>
+    <string name="add_event_title_data">What is your event called?</string>
+
+    <string name="add_event_description_label">Description</string>
+    <string name="add_event_description_data">What is your event about?</string>
+
+    <string name="schedule_upper_time">9:00 AM</string>
+    <string name="schedule_time_divider">   to   </string>
+    <string name="schedule_lower_time">5:00 PM</string>
+
+    <string name="schedule_task_description">Walk the dog eating dog eating dog eating
+    dog eating dog eating dog eating dog eating dog</string>
+    <string name="title_activity_add_event">AddEventActivity</string>
+</resources>

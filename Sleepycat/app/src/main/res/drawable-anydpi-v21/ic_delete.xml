@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="640dp"
+    android:height="640dp"
+    android:viewportWidth="640"
+    android:viewportHeight="640">
+
+    <path
+        android:name="a5JpWGFPk7"
+        android:fillColor="#5ceb2f"
+        android:fillAlpha="0"
+        android:strokeWidth="1"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="a5JpWGFPk7"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="7"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="a5JpWGFPk7"
+        android:fillColor="#5ceb2f"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="7"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="a6pwnkFvAu"
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M230 210L240 210L320 290L400 210L410 210L420 220L430 230L430 240L350 320L430
+400L430 410L420 420L410 430L400 430L320 350L240 430L230 430L220 420L210 410L210
+400L290 320L210 240L210 230L220 220L230 210Z" />
+    <path
+        android:name="a6pwnkFvAu"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="6"
+        android:pathData="M230 210L240 210L320 290L400 210L410 210L420 220L430 230L430 240L350 320L430
+400L430 410L420 420L410 430L400 430L320 350L240 430L230 430L220 420L210 410L210
+400L290 320L210 240L210 230L220 220L230 210Z" />
+    <path
+        android:name="a6pwnkFvAu"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="6"
+        android:pathData="M230 210L240 210L320 290L400 210L410 210L420 220L430 230L430 240L350 320L430
+400L430 410L420 420L410 430L400 430L320 350L240 430L230 430L220 420L210 410L210
+400L290 320L210 240L210 230L220 220L230 210Z" />
+</vector>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="640dp"
+    android:height="640dp"
+    android:viewportWidth="640"
+    android:viewportHeight="640">
+
+    <path
+        android:name="a16Vapq7zg"
+        android:fillColor="#5ceb2f"
+        android:fillAlpha="0"
+        android:strokeWidth="1"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="a16Vapq7zg"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="7"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="a16Vapq7zg"
+        android:fillColor="#5ceb2f"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="7"
+        android:pathData="M480 320C480 408.31 408.31 480 320 480C231.69 480 160 408.31 160 320C160 231.69
+231.69 160 320 160C408.31 160 480 231.69 480 320Z" />
+    <path
+        android:name="a20aGlAx38"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="6"
+        android:pathData="M300 340C300 340 300 340 300 340C255.82 340 220 304.18 220 260C220 256 220 246
+220 230L300 230L340 230L420 230C420 246 420 256 420 260C420 304.18 384.18 340
+340 340C340 340 340 340 340 340L340 450L300 450L300 340Z" />
+    <path
+        android:name="d2lUHhqDM"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#140f0f"
+        android:strokeWidth="1"
+        android:pathData="" />
+    <path
+        android:name="b56Naq7T6"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="6"
+        android:pathData="M400 310C400 310 400 310 400 310C348.42 290.66 291.58 290.66 240 310C240 310 240
+310 240 310" />
+    <path
+        android:name="h65JKuNevg"
+        android:fillColor="#000000"
+        android:fillAlpha="0"
+        android:strokeColor="#000000"
+        android:strokeWidth="6"
+        android:pathData="M419.79 350C419.79 350 419.79 350 419.79 350C425.17 355.38 424.8 364.21 418.98
+369.12C417.15 370.67 418.8 369.28 416.05 371.59C412.38 374.7 407.06 374.88
+403.18 372.03C400.51 370.07 403.97 372.61 402.51 371.54C395.6 366.46 394.36
+356.63 399.79 350C399.79 350 399.79 350 399.79 350L409.79 320L419.79 350Z" />
+</vector>

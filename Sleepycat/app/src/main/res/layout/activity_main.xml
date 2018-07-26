@@ -1,0 +1,138 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0099cc"
+    tools:context="com.melonfishy.sleepycat.MainActivity">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+
+    <FrameLayout
+        android:id="@+id/fullscreen_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <pl.droidsonroids.gif.GifTextView
+            android:id="@+id/gft_background"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/sleepycat_bg_draft_cropped_compressed"
+            android:scaleY="1.05"
+            android:adjustViewBounds="true"/>
+
+        <pl.droidsonroids.gif.GifTextView
+            android:id="@+id/gft_foreground"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/sleepycat_fg_draft"
+            android:scaleY="1.05"
+            android:adjustViewBounds="true"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="40dp"
+            android:background="@color/colorPrimaryMidLowTransparent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_main_alarm_title"
+                android:text="@string/add_event_title_data"
+                android:layout_gravity="center"
+                android:visibility="gone"
+                style="@style/SubHeader"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_main_alarm_time"
+                android:text="@string/add_event_time"
+                android:layout_gravity="center"
+                android:visibility="gone"
+                style="@style/SubHeader"/>
+            <TextView
+                android:paddingTop="4dp"
+                android:paddingBottom="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_main_alarm_details"
+                android:text="@string/add_event_description_data"
+                android:layout_gravity="center"
+                android:visibility="gone"
+                style="@style/SubDetail"/>
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout
+            android:id="@+id/fullscreen_content_controls"
+            style="?metaButtonBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@color/black_overlay"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp">
+
+            <ImageButton
+                android:id="@+id/calendar_button"
+                style="@style/ButtonHeaderAppearance"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/calendar_button_label"
+                android:gravity="bottom"
+                android:paddingBottom="8dp"
+                android:textAlignment="center"
+                android:background="@drawable/ic_calendar"
+                android:backgroundTint="@color/white"
+                android:scaleY="1.5"
+                android:scaleX="0.8"/>
+
+            <ImageButton
+                android:id="@+id/theme_button"
+                style="@style/ButtonHeaderAppearance"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/theme_button_label"
+                android:gravity="bottom"
+                android:paddingBottom="8dp"
+                android:textAlignment="center"
+                android:background="@drawable/ic_theme"
+                android:backgroundTint="@color/white"
+                android:scaleY="1.5"
+                android:scaleX="0.8"/>
+
+            <ImageButton
+                android:id="@+id/settings_button"
+                style="@style/ButtonHeaderAppearance"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/settings_button_label"
+                android:gravity="bottom"
+                android:paddingBottom="8dp"
+                android:textAlignment="center"
+                android:background="@drawable/ic_settings"
+                android:backgroundTint="@color/white"
+                android:scaleY="1.5"
+                android:scaleX="0.8"/>
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</FrameLayout>
